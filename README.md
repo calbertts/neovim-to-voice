@@ -15,7 +15,7 @@ Verify NodeJS client is correctly configured running on neovim: `:checkhealth`
 
 ## How to install
 
-Copy the `CodeToVoice.js` file to `~/.config/nvim/rplugin/node/`
+Copy the `neovim-to-voice.js` file to `~/.config/nvim/rplugin/node/`
 
 Open `neovim` and run `:UpdateRemotePlugins`, then restart `neovim`
 
