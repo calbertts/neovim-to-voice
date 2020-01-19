@@ -6,7 +6,12 @@ Very simple neovim plugin that uses MacOS voice synthesizer to convert buffer co
 ## Requirements
 
 - NodeJS >=8
+- Neovim NodeJS Client (`npm i -g neovim`)
 - MacOS voice synthesizer, installed by default
+
+Verify NodeJS client is correctly configured running on neovim: `:checkhealth`
+
+"Node.js provider" must be OK
 
 ## How to install
 
