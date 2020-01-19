@@ -1,6 +1,6 @@
 # Neovim to Voice (MacOS only)
 
-Uses MacOS voice synthesizer to convert buffer contents to voice.
+Very simple neovim plugin that uses MacOS voice synthesizer to convert buffer contents to voice.
 
 
 ## Requirements
@@ -8,11 +8,9 @@ Uses MacOS voice synthesizer to convert buffer contents to voice.
 - NodeJS >=8
 - MacOS voice synthesizer, installed by default
 
-
 ## How to install
 
 Copy the `CodeToVoice.js` file to `~/.config/nvim/rplugin/node/`
-
 Open `neovim` and run `:UpdateRemotePlugins`, then restart `neovim`
 
 ## Capabilities
