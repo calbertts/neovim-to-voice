@@ -11,6 +11,7 @@ Very simple neovim plugin that uses MacOS voice synthesizer to convert buffer co
 ## How to install
 
 Copy the `CodeToVoice.js` file to `~/.config/nvim/rplugin/node/`
+
 Open `neovim` and run `:UpdateRemotePlugins`, then restart `neovim`
 
 ## Capabilities
